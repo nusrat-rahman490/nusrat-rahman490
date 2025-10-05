@@ -11,7 +11,7 @@ I’m a dedicated and curious learner exploring the intersection of **technology
 I enjoy working on collaborative projects, building smart systems, and continuously improving my technical and leadership skills.  
 
 - 🌱 Currently learning **Web Development** and exploring **AI-integrated solutions**  
-- 💡 Interested in **Project Management**, **Product Design**, and **Tech for Social Good**  
+- 💡  Interested in **Coding**, **Robotics**, and **Project Management**  
 - 🤝 I love working on **team projects** that combine creativity and functionality  
 
 ---
