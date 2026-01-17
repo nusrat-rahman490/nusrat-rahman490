@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Nusrat Rahman  
 
 🎓 **Undergraduate Student at BRAC University**  
-💻 Passionate about **Web Development**, **Coding**, and **Problem Solving**  
+💻 Passionate about **Robotics**, **Mechanical Engineering**,**Hardware Development**,**Web Development**, **Coding**, and **Problem Solving**  
 
 ---
 
@@ -10,15 +10,49 @@
 I’m a dedicated and curious learner exploring the intersection of **technology**, **design**, and **innovation**.  
 I enjoy working on collaborative projects, building smart systems, and continuously improving my technical and leadership skills.  
 
-- 🌱 Currently learning **Web Development** 
+- 🌱 Currently learning **ROS2**, **C++** and  **Web Development** 
 - 💡  Interested in **Coding**, **Robotics**, and **Project Management**  
 - 🤝 I love working on **team projects** that combine creativity and functionality  
 
 ---
 
+### 🛠️ Hardware & Mechanical Engineering Experience  
+
+#### 🚀 BRACU Mongol Tori — Mars Rover Team (URC 2025)  
+
+**Mechanical Engineering Subteam Lead**  
+🏆 **8th Place Globally — University Rover Challenge (URC) 2025**
+
+At BRAC University, I led the Mechanical Engineering subteam for **BRACU Mongol Tori**, a multidisciplinary Mars rover developed for real-world field competition. My focus was on **serviceable mechanical design, system integration, hardware testing, and rapid iteration under terrain and time constraints**.
+
+---
+
+#### 🔩 Chassis, Suspension & Mobility Systems
+- Designed and optimized **rocker-bogie suspension**, wheel hubs, and load-bearing structures for uneven terrain  
+- Reduced chassis vibration and improved **wheel–ground interaction** through bearing selection and tolerance tuning  
+- Applied **vehicle dynamics principles** to improve stability and slope performance during field runs  
+
+#### 🔧 Serviceability-Focused Mechanical Design
+- Architected **modular chassis and flipping mechanisms** isolating electronics, batteries, and motor drivers  
+- Standardized fasteners and modular assemblies to significantly reduce maintenance and repair time  
+- Designed hardware for **rapid diagnosis and repair** during competition conditions  
+
+#### ⚙️ System Integration & Hardware Testing
+- Integrated mechanical systems with **motors, sensors, actuators, embedded boards, and power systems**  
+- Performed **subsystem and full-system testing**, identifying root causes from failed parts and field data  
+- Validated power integrity and system behavior using **oscilloscope, multimeter, and physical stress testing**  
+
+#### 🏭 Manufacturing, Iteration & Validation
+- Designed **CNC-machined aluminum** and **3D-printed components** with DFM considerations  
+- Iterated designs based on **real terrain feedback**, not simulations alone  
+- Documented test results, design changes, and failure analyses for cross-team engineering use
+- 
+---
+
 ### 🧰 Tech Stack  
 
 #### 💻 Languages  
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,8 +90,8 @@ I enjoy working on collaborative projects, building smart systems, and continuou
 
 ### 🏅 Achievements  
 
-- 🥈 **1st Runner-Up** – Bangladesh Mathematical Olympiad  
-- 🧠 **Top 100 National Rank** – Bangladesh Physics Olympiad  
+- 🥈 **8th Position(Global)** – University Mars Rover Challenge 2025 
+- 🥈 **Global Nominee (Top 12%)** – Nasa Space Apps Challenge 2025 
 - 🏆 **Silver Award** – Queen’s Commonwealth Essay Competition  
 
 ---
