@@ -25,8 +25,6 @@ I enjoy working on collaborative projects, building smart systems, and continuou
 
 At BRAC University, I led the Mechanical Engineering subteam for **BRACU Mongol Tori**, a multidisciplinary Mars rover developed for real-world field competition. My focus was on **serviceable mechanical design, system integration, hardware testing, and rapid iteration under terrain and time constraints**.
 
----
-
 #### 🔩 Chassis, Suspension & Mobility Systems
 - Designed and optimized **rocker-bogie suspension**, wheel hubs, and load-bearing structures for uneven terrain  
 - Reduced chassis vibration and improved **wheel–ground interaction** through bearing selection and tolerance tuning  
@@ -46,7 +44,7 @@ At BRAC University, I led the Mechanical Engineering subteam for **BRACU Mongol 
 - Designed **CNC-machined aluminum** and **3D-printed components** with DFM considerations  
 - Iterated designs based on **real terrain feedback**, not simulations alone  
 - Documented test results, design changes, and failure analyses for cross-team engineering use
-- 
+  
 ---
 
 ### 🧰 Tech Stack  
