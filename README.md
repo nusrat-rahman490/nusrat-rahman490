@@ -16,6 +16,18 @@ I enjoy working on collaborative projects, building smart systems, and continuou
 
 ---
 
+### Hackathon (Nasa Space Apps Challenge - 2025)
+###  🌸 Bloom Probability Checker App ( https://bloom-probability-checker-one.vercel.app/)
+
+- Engineered a satellite-driven prediction platform by ingesting and processing 10,000+ Sentinel-2 imagery tiles,
+computing NDVI indices, and correlating multi-temporal signals to detect plant bloom events with 52% prediction
+accuracy.
+- Built distributed, low-latency data pipelines using FastAPI and Uvicorn servers, reducing API response time by
+45% while supporting real-time geospatial queries and model inference at global scale.
+- Developed and optimized ML prediction models (Random Forest, SVM) integrating satellite observations and
+NOAA climate variables, improving bloom-date prediction error by 30% compared to climate-only baselines
+---
+
 ### 🛠️ Hardware & Mechanical Engineering Experience  
 
 #### 🚀 BRACU Mongol Tori — Mars Rover Team (URC 2025)  
