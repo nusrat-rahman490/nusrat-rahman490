@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nusrat Rahman  
 
-🎓 **Undergraduate Student at BRAC University**  
+
 💻 Passionate about **Robotics**, **Mechanical Engineering**,**Hardware Development**,**Web Development**, **Coding**, and **Problem Solving**  
 
 ---
